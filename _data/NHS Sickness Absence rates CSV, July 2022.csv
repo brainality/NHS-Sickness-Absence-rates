@@ -1,0 +1,290 @@
+DATE,NHSE_REGION_CODE,NHSE_REGION_NAME,ICS_CODE,ICS_NAME,ORG_CODE,ORG_NAME,ORG_TYPE,FTE_DAYS_LOST,FTE_DAYS_AVAILABLE,SICKNESS_ABSENCE_RATE_PERCENT
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,0AR,NHS North of England Commissioning Support Unit,Commissioning Support Unit,1640.17997,52104.6685,3.15
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,0CX,NHS Midlands and Lancashire Commissioning Support Unit,Commissioning Support Unit,1640.6081,54337.27035,3.02
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,0DE,NHS Arden and Greater East Midlands Commissioning Support Unit,Commissioning Support Unit,883.2162,33247.67072,2.66
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,0DF,"NHS South, Central and West Commissioning Support Unit",Commissioning Support Unit,1819.44018,50054.5654,3.63
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,8JX76,ENGIE Services Ltd,Others,1313.98612,21663.165259999998,6.07
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,T1150,NHS Resolution,Others,280.8,16644.77182,1.69
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,T1450,NHS Business Services Authority,Others,4832.56551,118797.7465,4.07
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,T1460,NHS Blood and Transplant,Others,9436.39916,159542.087,5.91
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,T1480,Health Research Authority,Others,284.1733,8373.50683,3.39
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,T1510,Health Education England,Others,4215.9969,198901.5062,2.12
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,T1540,NHS Counter Fraud Authority,Others,141.2,4752.01393,2.97
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,X24,NHS England,Others,8780.15199,357596.1547,2.46
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,X26,NHS Digital,Others,2145.45871,93639.42985,2.29
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,X36,UK Health Security Agency,Others,5149.08833,172449.9605,2.99
+31.07.2022,QZZ,Special Health Authorities and other statutory bodies,,,X80,National Institute for Health and Care Excellence,Others,474.78000000000003,24790.66706,1.92
+31.07.2022,Y56,London,,,AXA,Tower Hamlets GP Care Group CIC,Community Provider Trust,393.78033999999997,8916.22799,4.42
+31.07.2022,Y56,London,,,DEQ,King's Facilities Management (KFM),Others,202.53323,10348.14598,1.96
+31.07.2022,Y56,London,,,NNV,Your Healthcare,Community Provider Trust,446.88392,12537.05885,3.56
+31.07.2022,Y56,London,,,NQV,Bromley Healthcare,Community Provider Trust,1709.7884,28450.32837,6.01
+31.07.2022,Y56,London,,,QKK,NHS South East London ICB,Integrated Care Board,562.62676,19908.45919,2.83
+31.07.2022,Y56,London,,,QMF,NHS North East London ICB,Integrated Care Board,551.21333,26689.08604,2.07
+31.07.2022,Y56,London,,,QMJ,NHS North Central London ICB,Integrated Care Board,447.95052,19782.8607,2.26
+31.07.2022,Y56,London,,,QRV,NHS North West London ICB,Integrated Care Board,940.17343,23939.23356,3.93
+31.07.2022,Y56,London,,,QWE,NHS South West London ICB,Integrated Care Board,487.09334,18446.57196,2.64
+31.07.2022,Y56,London,,,R1H,Barts Health NHS Trust,Acute,28347.50228,519446.2808,5.46
+31.07.2022,Y56,London,,,R1K,London North West University Healthcare NHS Trust,Acute,11038.6017,238807.0232,4.62
+31.07.2022,Y56,London,,,RAL,Royal Free London NHS Foundation Trust,Acute,17419.02073,351575.0012,4.95
+31.07.2022,Y56,London,,,RAN,Royal National Orthopaedic Hospital NHS Trust,Acute,1921.92864,46419.43987,4.14
+31.07.2022,Y56,London,,,RAP,North Middlesex University Hospital NHS Trust,Acute,7115.89392,112323.2472,6.34
+31.07.2022,Y56,London,,,RAS,Hillingdon Hospitals NHS Foundation Trust,Acute,6370.08225,105390.9966,6.04
+31.07.2022,Y56,London,,,RAT,North East London NHS Foundation Trust,Mental Health,9544.37972,190153.6224,5.02
+31.07.2022,Y56,London,,,RAX,Kingston Hospital NHS Foundation Trust,Acute,5404.62369,102336.2417,5.28
+31.07.2022,Y56,London,,,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",Acute,12902.48677,223683.9943,5.77
+31.07.2022,Y56,London,,,RJ1,Guy's and St Thomas' NHS Foundation Trust,Acute,36342.64705,664329.3422,5.47
+31.07.2022,Y56,London,,,RJ2,Lewisham and Greenwich NHS Trust,Acute,12528.34577,201739.8674,6.21
+31.07.2022,Y56,London,,,RJ6,Croydon Health Services NHS Trust,Acute,6908.23437,119901.8954,5.76
+31.07.2022,Y56,London,,,RJ7,St George's University Hospitals NHS Foundation Trust,Acute,14329.26512,282733.2797,5.07
+31.07.2022,Y56,London,,,RJZ,King's College Hospital NHS Foundation Trust,Acute,20625.45209,397530.9267,5.19
+31.07.2022,Y56,London,,,RKE,Whittington Health NHS Trust,Acute,6435.97168,131222.4113,4.9
+31.07.2022,Y56,London,,,RKL,West London NHS Trust,Mental Health,7036.41307,122497.8891,5.74
+31.07.2022,Y56,London,,,RNK,Tavistock and Portman NHS Foundation Trust,Mental Health,302.43323,21279.13481,1.42
+31.07.2022,Y56,London,,,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,Acute,5689.17671,166002.5092,3.43
+31.07.2022,Y56,London,,,RP6,Moorfields Eye Hospital NHS Foundation Trust,Acute,3567.88083,65686.98979,5.43
+31.07.2022,Y56,London,,,RPG,Oxleas NHS Foundation Trust,Mental Health,6773.10011,113873.7215,5.95
+31.07.2022,Y56,London,,,RPY,Royal Marsden NHS Foundation Trust,Acute,5892.46967,128871.6371,4.57
+31.07.2022,Y56,London,,,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,Acute,8081.47972,192434.3395,4.2
+31.07.2022,Y56,London,,,RQX,Homerton Healthcare NHS Foundation Trust,Acute,5284.99753,114354.0813,4.62
+31.07.2022,Y56,London,,,RQY,South West London and St George's Mental Health NHS Trust,Mental Health,3934.88387,75285.27401,5.23
+31.07.2022,Y56,London,,,RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",Mental Health,5307.24286,100113.2233,5.3
+31.07.2022,Y56,London,,,RRU,London Ambulance Service NHS Trust,Ambulance,20290.57197,207809.6633,9.76
+31.07.2022,Y56,London,,,RRV,University College London Hospitals NHS Foundation Trust,Acute,16658.84834,304751.407,5.47
+31.07.2022,Y56,London,,,RV3,Central and North West London NHS Foundation Trust,Mental Health,11299.83088,225059.4851,5.02
+31.07.2022,Y56,London,,,RV5,South London and Maudsley NHS Foundation Trust,Mental Health,7553.20596,164629.7099,4.59
+31.07.2022,Y56,London,,,RVR,Epsom and St Helier University Hospitals NHS Trust,Acute,13098.2601,195770.2568,6.69
+31.07.2022,Y56,London,,,RWK,East London NHS Foundation Trust,Mental Health,8752.70271,195815.2037,4.47
+31.07.2022,Y56,London,,,RY9,Hounslow and Richmond Community Healthcare NHS Trust,Community Provider Trust,1919.35042,33824.31033,5.67
+31.07.2022,Y56,London,,,RYJ,Imperial College Healthcare NHS Trust,Acute,21209.61359,391800.9365,5.41
+31.07.2022,Y56,London,,,RYX,Central London Community Healthcare NHS Trust,Community Provider Trust,8202.6047,123089.7471,6.66
+31.07.2022,Y56,London,,,TAF,Camden and Islington NHS Foundation Trust,Mental Health,3196.419,69087.66363,4.63
+31.07.2022,Y58,South West,,,AWK,Smile Together Dental CIC,Community Provider Trust,41.6,2643.32646,1.57
+31.07.2022,Y58,South West,,,AXG,Wiltshire Health and Care,Community Provider Trust,1692.25609,31535.49903,5.37
+31.07.2022,Y58,South West,,,NLX,Sirona Care and Health,Community Provider Trust,4746.26183,80610.03427999999,5.89
+31.07.2022,Y58,South West,,,NR5,Livewell Southwest,Community Provider Trust,4787.99971,70185.50841,6.82
+31.07.2022,Y58,South West,,,QJK,NHS Devon ICB,Integrated Care Board,568.40744,16213.6151,3.51
+31.07.2022,Y58,South West,,,QOX,"NHS Bath and North East Somerset, Swindon and Wiltshire ICB",Integrated Care Board,267.81331,13000.32606,2.06
+31.07.2022,Y58,South West,,,QR1,NHS Gloucestershire ICB,Integrated Care Board,359.68011,11142.3673,3.23
+31.07.2022,Y58,South West,,,QSL,NHS Somerset ICB,Integrated Care Board,176.82669,8094.35803,2.18
+31.07.2022,Y58,South West,,,QT6,NHS Cornwall and the Isles of Scilly ICB,Integrated Care Board,445.67345,8691.50351,5.13
+31.07.2022,Y58,South West,,,QUY,"NHS Bristol, North Somerset and South Gloucestershire ICB",Integrated Care Board,398.84413,14588.07895,2.73
+31.07.2022,Y58,South West,,,QVV,NHS Dorset ICB,Integrated Care Board,620.36004,13181.08076,4.71
+31.07.2022,Y58,South West,,,R0D,University Hospitals Dorset NHS Foundation Trust,Acute,15253.48619,256991.9918,5.94
+31.07.2022,Y58,South West,,,RA4,Yeovil District Hospital NHS Foundation Trust,Acute,4391.5064,75115.38485,5.85
+31.07.2022,Y58,South West,,,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,Acute,17035.27866,323696.6759,5.26
+31.07.2022,Y58,South West,,,RA9,Torbay and South Devon NHS Foundation Trust,Acute,11505.38282,183798.0386,6.26
+31.07.2022,Y58,South West,,,RBD,Dorset County Hospital NHS Foundation Trust,Acute,5225.67508,90366.35845,5.78
+31.07.2022,Y58,South West,,,RD1,Royal United Hospitals Bath NHS Foundation Trust,Acute,10177.06276,163171.9492,6.24
+31.07.2022,Y58,South West,,,RDY,Dorset Healthcare University NHS Foundation Trust,Mental Health,10636.11327,163393.2161,6.51
+31.07.2022,Y58,South West,,,REF,Royal Cornwall Hospitals NHS Trust,Acute,11728.65519,193113.5907,6.07
+31.07.2022,Y58,South West,,,RH5,Somerset NHS Foundation Trust,Acute,17748.65896,268393.7931,6.61
+31.07.2022,Y58,South West,,,RH8,Royal Devon University Healthcare NHS Foundation Trust,Acute,23978.02284,343261.80846000003,6.99
+31.07.2022,Y58,South West,,,RJ8,Cornwall Partnership NHS Foundation Trust,Mental Health,6684.85268,113164.5159,5.91
+31.07.2022,Y58,South West,,,RK9,University Hospitals Plymouth NHS Trust,Acute,20819.32605,268446.5048,7.76
+31.07.2022,Y58,South West,,,RN3,Great Western Hospitals NHS Foundation Trust,Acute,8772.12932,147496.0615,5.95
+31.07.2022,Y58,South West,,,RNZ,Salisbury NHS Foundation Trust,Acute,6768.83018,108985.1226,6.21
+31.07.2022,Y58,South West,,,RTE,Gloucestershire Hospitals NHS Foundation Trust,Acute,12166.07916,244242.7649,4.98
+31.07.2022,Y58,South West,,,RTQ,Gloucestershire Health and Care NHS Foundation Trust,Mental Health,6924.46459,119551.5634,5.79
+31.07.2022,Y58,South West,,,RVJ,North Bristol NHS Trust,Acute,16013.91698,255951.4214,6.26
+31.07.2022,Y58,South West,,,RVN,Avon and Wiltshire Mental Health Partnership NHS Trust,Mental Health,7480.65963,124039.183,6.03
+31.07.2022,Y58,South West,,,RWV,Devon Partnership NHS Trust,Mental Health,8069.06531,101146.1897,7.98
+31.07.2022,Y58,South West,,,RYF,South Western Ambulance Service NHS Foundation Trust,Ambulance,10768.76767,140579.96704000002,7.66
+31.07.2022,Y59,South East,,,AQG,Procare Health Ltd,Community Provider Trust,151.08662,2760.13717,5.47
+31.07.2022,Y59,South East,,,NDJ,First Community Health and Care CIC,Community Provider Trust,739.95094,13728.94388,5.39
+31.07.2022,Y59,South East,,,NQ7,Medway Community Healthcare,Community Provider Trust,1831.05337,36335.75864,5.04
+31.07.2022,Y59,South East,,,NTV,CSH Surrey,Community Provider Trust,1491.49061,27865.85039,5.35
+31.07.2022,Y59,South East,,,QKS,NHS Kent and Medway ICB,Integrated Care Board,1028.37346,20072.22076,5.12
+31.07.2022,Y59,South East,,,QNQ,NHS Frimley ICB,Integrated Care Board,254.57329000000001,8617.60017,2.95
+31.07.2022,Y59,South East,,,QNX,NHS Sussex ICB,Integrated Care Board,661.36036,25887.61631,2.55
+31.07.2022,Y59,South East,,,QRL,NHS Hampshire and Isle of Wight ICB,Integrated Care Board,680.93014,27622.98387,2.47
+31.07.2022,Y59,South East,,,QU9,"NHS Buckinghamshire, Oxfordshire and Berkshire West ICB",Integrated Care Board,173.49583,8057.50775,2.15
+31.07.2022,Y59,South East,,,QXU,NHS Surrey Heartlands ICB,Integrated Care Board,536.49332,15436.04483,3.48
+31.07.2022,Y59,South East,,,R1C,Solent NHS Trust,Community Provider Trust,7020.68862,109200.1864,6.43
+31.07.2022,Y59,South East,,,R1F,Isle of Wight NHS Trust,Acute,6894.79115,104328.187,6.61
+31.07.2022,Y59,South East,,,RA2,Royal Surrey County Hospital NHS Foundation Trust,Acute,7518.31445,138178.6787,5.44
+31.07.2022,Y59,South East,,,RDR,Sussex Community NHS Foundation Trust,Community Provider Trust,7574.70334,136692.2116,5.54
+31.07.2022,Y59,South East,,,RDU,Frimley Health NHS Foundation Trust,Acute,13762.57383,286592.9942,4.8
+31.07.2022,Y59,South East,,,RHM,University Hospital Southampton NHS Foundation Trust,Acute,18473.54901,361784.3161,5.11
+31.07.2022,Y59,South East,,,RHU,Portsmouth Hospitals University NHS Trust,Acute,14174.31998,229935.4643,6.16
+31.07.2022,Y59,South East,,,RHW,Royal Berkshire NHS Foundation Trust,Acute,7247.13817,168120.9506,4.31
+31.07.2022,Y59,South East,,,RN5,Hampshire Hospitals NHS Foundation Trust,Acute,13627.39551,213642.8432,6.38
+31.07.2022,Y59,South East,,,RN7,Dartford and Gravesham NHS Trust,Acute,5755.86549,114051.2014,5.05
+31.07.2022,Y59,South East,,,RNU,Oxford Health NHS Foundation Trust,Mental Health,9260.51927,170179.6102,5.44
+31.07.2022,Y59,South East,,,RPA,Medway NHS Foundation Trust,Acute,8040.30006,136109.1174,5.91
+31.07.2022,Y59,South East,,,RPC,Queen Victoria Hospital NHS Foundation Trust,Acute,1310.56848,29141.66114,4.5
+31.07.2022,Y59,South East,,,RTH,Oxford University Hospitals NHS Foundation Trust,Acute,20379.1464,389223.4504,5.24
+31.07.2022,Y59,South East,,,RTK,Ashford and St. Peter's Hospitals NHS Foundation Trust,Acute,5647.79908,131778.9471,4.29
+31.07.2022,Y59,South East,,,RTP,Surrey and Sussex Healthcare NHS Trust,Acute,7163.96519,140698.8155,5.09
+31.07.2022,Y59,South East,,,RVV,East Kent Hospitals University NHS Foundation Trust,Acute,17985.11772,303704.4525,5.92
+31.07.2022,Y59,South East,,,RW1,Southern Health NHS Foundation Trust,Mental Health,10435.18892,176856.9141,5.9
+31.07.2022,Y59,South East,,,RWF,Maidstone and Tunbridge Wells NHS Trust,Acute,9570.71175,196463.0441,4.87
+31.07.2022,Y59,South East,,,RWX,Berkshire Healthcare NHS Foundation Trust,Mental Health,6886.14422,129535.6569,5.32
+31.07.2022,Y59,South East,,,RX2,Sussex Partnership NHS Foundation Trust,Mental Health,8016.20618,156477.2555,5.12
+31.07.2022,Y59,South East,,,RXC,East Sussex Healthcare NHS Trust,Acute,14785.99143,221059.4347,6.69
+31.07.2022,Y59,South East,,,RXQ,Buckinghamshire Healthcare NHS Trust,Acute,9693.77011,173805.922,5.58
+31.07.2022,Y59,South East,,,RXX,Surrey and Borders Partnership NHS Foundation Trust,Mental Health,3416.54368,85335.72742,4
+31.07.2022,Y59,South East,,,RXY,Kent and Medway NHS and Social Care Partnership Trust,Mental Health,4900.82341,98549.2638,4.97
+31.07.2022,Y59,South East,,,RYD,South East Coast Ambulance Service NHS Foundation Trust,Ambulance,12242.15152,120682.2045,10.14
+31.07.2022,Y59,South East,,,RYE,South Central Ambulance Service NHS Foundation Trust,Ambulance,11085.63591,129866.8369,8.54
+31.07.2022,Y59,South East,,,RYR,University Hospitals Sussex NHS Foundation Trust,Acute,26843.44762,451553.1676,5.94
+31.07.2022,Y59,South East,,,RYY,Kent Community Health NHS Foundation Trust,Community Provider Trust,7310.95839,132140.3079,5.53
+31.07.2022,Y60,Midlands,,,NR3,Nottingham Citycare Partnership,Community Provider Trust,1677.75529,28832.99342,5.82
+31.07.2022,Y60,Midlands,,,QGH,NHS Herefordshire and Worcestershire ICB,Integrated Care Board,178.61334,8082.71577,2.21
+31.07.2022,Y60,Midlands,,,QHL,NHS Birmingham and Solihull ICB,Integrated Care Board,987.22011,13570.73303,7.27
+31.07.2022,Y60,Midlands,,,QJ2,NHS Derby and Derbyshire ICB,Integrated Care Board,484.08663,14337.69533,3.38
+31.07.2022,Y60,Midlands,,,QJM,NHS Lincolnshire ICB,Integrated Care Board,591.59989,11886.91827,4.98
+31.07.2022,Y60,Midlands,,,QK1,"NHS Leicester, Leicestershire and Rutland ICB",Integrated Care Board,99.88,9039.24361,1.1
+31.07.2022,Y60,Midlands,,,QNC,NHS Staffordshire and Stoke-on-Trent ICB,Integrated Care Board,186.85333,7738.58326,2.41
+31.07.2022,Y60,Midlands,,,QOC,"NHS Shropshire, Telford and Wrekin ICB",Integrated Care Board,512.13336,9368.80954,5.47
+31.07.2022,Y60,Midlands,,,QPM,NHS Northamptonshire ICB,Integrated Care Board,178.24692,4917.23835,3.62
+31.07.2022,Y60,Midlands,,,QT1,NHS Nottingham and Nottinghamshire ICB,Integrated Care Board,482.9869,15199.44277,3.18
+31.07.2022,Y60,Midlands,,,QUA,NHS Black Country ICB,Integrated Care Board,386.44653,13812.63333,2.8
+31.07.2022,Y60,Midlands,,,QWU,NHS Coventry and Warwickshire ICB,Integrated Care Board,443.84341,10077.41984,4.4
+31.07.2022,Y60,Midlands,,,R1A,Herefordshire and Worcestershire Health and Care NHS Trust,Community Provider Trust,6741.81563,116317.8299,5.8
+31.07.2022,Y60,Midlands,,,R1D,Shropshire Community Health NHS Trust,Community Provider Trust,2457.15456,39219.83963,6.27
+31.07.2022,Y60,Midlands,,,RBK,Walsall Healthcare NHS Trust,Acute,9811.70975,125805.9224,7.8
+31.07.2022,Y60,Midlands,,,RFS,Chesterfield Royal Hospital NHS Foundation Trust,Acute,8462.47738,130296.9743,6.49
+31.07.2022,Y60,Midlands,,,RHA,Nottinghamshire Healthcare NHS Foundation Trust,Mental Health,19876.67023,247513.4475,8.03
+31.07.2022,Y60,Midlands,,,RJC,South Warwickshire NHS Foundation Trust,Acute,7849.94882,134664.4377,5.83
+31.07.2022,Y60,Midlands,,,RJE,University Hospitals of North Midlands NHS Trust,Acute,21192.16802,307428.2779,6.89
+31.07.2022,Y60,Midlands,,,RK5,Sherwood Forest Hospitals NHS Foundation Trust,Acute,8507.14535,152547.5346,5.58
+31.07.2022,Y60,Midlands,,,RKB,University Hospitals Coventry and Warwickshire NHS Trust,Acute,16842.90911,264056.0773,6.38
+31.07.2022,Y60,Midlands,,,RL1,Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,Acute,2629.56985,44003.51056,5.98
+31.07.2022,Y60,Midlands,,,RL4,Royal Wolverhampton NHS Trust,Acute,18367.36638,290043.47305000003,6.33
+31.07.2022,Y60,Midlands,,,RLQ,Wye Valley NHS Trust,Acute,6477.75813,98089.36088,6.6
+31.07.2022,Y60,Midlands,,,RLT,George Eliot Hospital NHS Trust,Acute,4858.78048,72546.62825,6.7
+31.07.2022,Y60,Midlands,,,RLY,North Staffordshire Combined Healthcare NHS Trust,Mental Health,2533.01905,48840.3269,5.19
+31.07.2022,Y60,Midlands,,,RNA,Dudley Group NHS Foundation Trust,Acute,7264.09225,155745.3766,4.66
+31.07.2022,Y60,Midlands,,,RNQ,Kettering General Hospital NHS Foundation Trust,Acute,10293.69872,134272.2958,7.67
+31.07.2022,Y60,Midlands,,,RNS,Northampton General Hospital NHS Trust,Acute,11660.93749,158832.0312,7.34
+31.07.2022,Y60,Midlands,,,RP1,Northamptonshire Healthcare NHS Foundation Trust,Mental Health,8717.05752,124333.7478,7.01
+31.07.2022,Y60,Midlands,,,RP7,Lincolnshire Partnership NHS Foundation Trust,Mental Health,3975.99765,68436.75098,5.81
+31.07.2022,Y60,Midlands,,,RQ3,Birmingham Women's and Children's NHS Foundation Trust,Acute,9461.83634,169485.1763,5.58
+31.07.2022,Y60,Midlands,,,RRE,Midlands Partnership NHS Foundation Trust,Mental Health,15003.01032,248246.108,6.04
+31.07.2022,Y60,Midlands,,,RRJ,Royal Orthopaedic Hospital NHS Foundation Trust,Acute,2523.6881,34034.53243,7.42
+31.07.2022,Y60,Midlands,,,RRK,University Hospitals Birmingham NHS Foundation Trust,Acute,43173.70882,614410.1009,7.03
+31.07.2022,Y60,Midlands,,,RT5,Leicestershire Partnership NHS Trust,Mental Health,8370.97914,156026.9262,5.37
+31.07.2022,Y60,Midlands,,,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,Acute,22661.60805,372435.199,6.08
+31.07.2022,Y60,Midlands,,,RWD,United Lincolnshire Hospitals NHS Trust,Acute,12778.75157,227429.8842,5.62
+31.07.2022,Y60,Midlands,,,RWE,University Hospitals of Leicester NHS Trust,Acute,26052.57229,452535.0928,5.76
+31.07.2022,Y60,Midlands,,,RWP,Worcestershire Acute Hospitals NHS Trust,Acute,11468.23846,182029.197,6.3
+31.07.2022,Y60,Midlands,,,RX1,Nottingham University Hospitals NHS Trust,Acute,29153.79343,496552.674,5.87
+31.07.2022,Y60,Midlands,,,RX9,East Midlands Ambulance Service NHS Trust,Ambulance,10691.29576,116733.5027,9.16
+31.07.2022,Y60,Midlands,,,RXK,Sandwell and West Birmingham Hospitals NHS Trust,Acute,14666.22617,207847.6794,7.06
+31.07.2022,Y60,Midlands,,,RXM,Derbyshire Healthcare NHS Foundation Trust,Mental Health,5678.4435,78635.58219,7.22
+31.07.2022,Y60,Midlands,,,RXT,Birmingham and Solihull Mental Health NHS Foundation Trust,Mental Health,9588.638500000001,128362.6069,7.47
+31.07.2022,Y60,Midlands,,,RXW,Shrewsbury and Telford Hospital NHS Trust,Acute,13544.60797,190173.653,7.12
+31.07.2022,Y60,Midlands,,,RY5,Lincolnshire Community Health Services NHS Trust,Community Provider Trust,3582.33953,57271.37927,6.26
+31.07.2022,Y60,Midlands,,,RY8,Derbyshire Community Health Services NHS Foundation Trust,Community Provider Trust,6726.1938,109857.3903,6.12
+31.07.2022,Y60,Midlands,,,RYA,West Midlands Ambulance Service University NHS Foundation Trust,Ambulance,11500.84228,206534.3119,5.57
+31.07.2022,Y60,Midlands,,,RYG,Coventry and Warwickshire Partnership NHS Trust,Mental Health,8003.69425,112824.8172,7.09
+31.07.2022,Y60,Midlands,,,RYK,Dudley Integrated Health and Care NHS Trust,Community Provider Trust,327.28532,10110.65908,3.24
+31.07.2022,Y60,Midlands,,,RYW,Birmingham Community Healthcare NHS Foundation Trust,Community Provider Trust,10238.79502,132961.9096,7.7
+31.07.2022,Y60,Midlands,,,TAJ,Black Country Healthcare NHS Foundation Trust,Mental Health,6504.05215,103111.6532,6.31
+31.07.2022,Y61,East of England,,,NAX,East Coast Community Healthcare CIC,Community Provider Trust,1629.80562,17240.70657,9.45
+31.07.2022,Y61,East of England,,,NQA,Provide,Community Provider Trust,857.9269,26648.55872,3.22
+31.07.2022,Y61,East of England,,,NRR,Community Dental Services CIC,Community Provider Trust,654.85021,10760.2296,6.09
+31.07.2022,Y61,East of England,,,QH8,NHS Mid and South Essex ICB,Integrated Care Board,281.09995,13354.8643,2.1
+31.07.2022,Y61,East of England,,,QHG,"NHS Bedfordshire, Luton and Milton Keynes ICB",Integrated Care Board,206.42001,10745.0936,1.92
+31.07.2022,Y61,East of England,,,QJG,NHS Suffolk and North East Essex ICB,Integrated Care Board,120.8,13908.17134,0.87
+31.07.2022,Y61,East of England,,,QM7,NHS Hertfordshire and West Essex ICB,Integrated Care Board,517.26007,20888.2947,2.48
+31.07.2022,Y61,East of England,,,QMM,NHS Norfolk and Waveney ICB,Integrated Care Board,480.98669,17709.15928,2.72
+31.07.2022,Y61,East of England,,,QUE,NHS Cambridgeshire and Peterborough ICB,Integrated Care Board,476.58001,11188.10337,4.26
+31.07.2022,Y61,East of England,,,R1L,Essex Partnership University NHS Foundation Trust,Mental Health,10014.35999,163341.3969,6.13
+31.07.2022,Y61,East of England,,,RAJ,Mid and South Essex NHS Foundation Trust,Acute,24850.53789,431380.7599,5.76
+31.07.2022,Y61,East of England,,,RC9,Bedfordshire Hospitals NHS Foundation Trust,Acute,13039.85782,226407.7908,5.76
+31.07.2022,Y61,East of England,,,RCX,Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,Acute,8344.86383,105199.3186,7.93
+31.07.2022,Y61,East of England,,,RD8,Milton Keynes University Hospital NHS Foundation Trust,Acute,6027.61117,106396.5185,5.67
+31.07.2022,Y61,East of England,,,RDE,East Suffolk and North Essex NHS Foundation Trust,Acute,17599.73631,309960.4253,5.68
+31.07.2022,Y61,East of England,,,RGM,Royal Papworth Hospital NHS Foundation Trust,Acute,3237.1694,59903.57441,5.4
+31.07.2022,Y61,East of England,,,RGN,North West Anglia NHS Foundation Trust,Acute,11559.31727,198372.8254,5.83
+31.07.2022,Y61,East of England,,,RGP,James Paget University Hospitals NHS Foundation Trust,Acute,6844.56197,106632.1106,6.42
+31.07.2022,Y61,East of England,,,RGR,West Suffolk NHS Foundation Trust,Acute,7800.59919,131622.9096,5.93
+31.07.2022,Y61,East of England,,,RGT,Cambridge University Hospitals NHS Foundation Trust,Acute,19602.93006,336390.4855,5.83
+31.07.2022,Y61,East of England,,,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,Acute,15606.48381,247977.1795,6.29
+31.07.2022,Y61,East of England,,,RMY,Norfolk and Suffolk NHS Foundation Trust,Mental Health,8556.442360000001,135808.857,6.3
+31.07.2022,Y61,East of England,,,RQW,Princess Alexandra Hospital NHS Trust,Acute,5451.92479,108536.9862,5.02
+31.07.2022,Y61,East of England,,,RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Mental Health,6389.52342,123232.2122,5.18
+31.07.2022,Y61,East of England,,,RWG,West Hertfordshire Teaching Hospitals NHS Trust,Acute,8222.78643,150315.8297,5.47
+31.07.2022,Y61,East of England,,,RWH,East and North Hertfordshire NHS Trust,Acute,11644.97159,180468.1521,6.45
+31.07.2022,Y61,East of England,,,RWR,Hertfordshire Partnership University NHS Foundation Trust,Mental Health,5552.5852,104998.7711,5.29
+31.07.2022,Y61,East of England,,,RY3,Norfolk Community Health and Care NHS Trust,Community Provider Trust,4207.18766,66003.99972,6.37
+31.07.2022,Y61,East of England,,,RY4,Hertfordshire Community NHS Trust,Community Provider Trust,2639.91432,62611.1198,4.22
+31.07.2022,Y61,East of England,,,RYC,East of England Ambulance Service NHS Trust,Ambulance,16275.50258,167318.6494,9.73
+31.07.2022,Y61,East of England,,,RYV,Cambridgeshire Community Services NHS Trust,Community Provider Trust,4459.05975,72696.41458,6.13
+31.07.2022,Y62,North West,,,QE1,NHS Lancashire and South Cumbria ICB,Integrated Care Board,337.89598,14721.82775,2.3
+31.07.2022,Y62,North West,,,QOP,NHS Greater Manchester ICB,Integrated Care Board,1610.90724,51209.89571,3.15
+31.07.2022,Y62,North West,,,QYG,NHS Cheshire and Merseyside ICB,Integrated Care Board,619.52014,29674.33738,2.09
+31.07.2022,Y62,North West,,,R0A,Manchester University NHS Foundation Trust,Acute,45254.551699999996,783069.1468,5.78
+31.07.2022,Y62,North West,,,RBL,Wirral University Teaching Hospital NHS Foundation Trust,Acute,12225.71564,173760.4703,7.04
+31.07.2022,Y62,North West,,,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,Acute,20906.69508,498736.0063,4.19
+31.07.2022,Y62,North West,,,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,Acute,3582.0625,54039.619080000004,6.63
+31.07.2022,Y62,North West,,,RBS,Alder Hey Children's NHS Foundation Trust,Acute,8473.12607,114009.5723,7.43
+31.07.2022,Y62,North West,,,RBT,Mid Cheshire Hospitals NHS Foundation Trust,Acute,8038.70893,136487.3719,5.89
+31.07.2022,Y62,North West,,,RBV,Christie NHS Foundation Trust,Acute,4560.44829,94588.40739,4.82
+31.07.2022,Y62,North West,,,REM,Liverpool University Hospitals NHS Foundation Trust,Acute,27250.05271,376097.6134,7.25
+31.07.2022,Y62,North West,,,REN,Clatterbridge Cancer Centre NHS Foundation Trust,Acute,2710.71661,48304.73872,5.61
+31.07.2022,Y62,North West,,,REP,Liverpool Women's NHS Foundation Trust,Acute,3633.94566,44515.42473,8.16
+31.07.2022,Y62,North West,,,RET,Walton Centre NHS Foundation Trust,Acute,2686.71885,42628.889559999996,6.3
+31.07.2022,Y62,North West,,,RJN,East Cheshire NHS Trust,Acute,4705.54005,64639.27796,7.28
+31.07.2022,Y62,North West,,,RJR,Countess of Chester Hospital NHS Foundation Trust,Acute,6910.35201,122237.5817,5.65
+31.07.2022,Y62,North West,,,RM3,Northern Care Alliance NHS Foundation Trust,Acute,39525.8117,529178.0982,7.47
+31.07.2022,Y62,North West,,,RMC,Bolton NHS Foundation Trust,Acute,10989.26328,173450.8465,6.34
+31.07.2022,Y62,North West,,,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Acute,7659.96245,110684.6191,6.92
+31.07.2022,Y62,North West,,,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",Acute,13257.24549,183689.1327,7.22
+31.07.2022,Y62,North West,,,RT2,Pennine Care NHS Foundation Trust,Mental Health,7598.94321,104577.8901,7.27
+31.07.2022,Y62,North West,,,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,Acute,13140.20871,190263.1449,6.91
+31.07.2022,Y62,North West,,,RVY,Southport and Ormskirk Hospital NHS Trust,Acute,7121.15295,90034.61864,7.91
+31.07.2022,Y62,North West,,,RW4,Mersey Care NHS Foundation Trust,Mental Health,26176.75131,302001.258,8.67
+31.07.2022,Y62,North West,,,RW5,Lancashire and South Cumbria NHS Foundation Trust,Mental Health,16684.9386,201712.322,8.27
+31.07.2022,Y62,North West,,,RWJ,Stockport NHS Foundation Trust,Acute,11203.70404,158557.4171,7.07
+31.07.2022,Y62,North West,,,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,Acute,8760.42226,118539.3338,7.39
+31.07.2022,Y62,North West,,,RX7,North West Ambulance Service NHS Trust,Ambulance,20109.27323,198003.2157,10.16
+31.07.2022,Y62,North West,,,RXA,Cheshire and Wirral Partnership NHS Foundation Trust,Mental Health,8127.7632,111793.307,7.27
+31.07.2022,Y62,North West,,,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Acute,17157.71626,224622.5976,7.64
+31.07.2022,Y62,North West,,,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,Acute,18285.94202,257088.3131,7.11
+31.07.2022,Y62,North West,,,RXR,East Lancashire Hospitals NHS Trust,Acute,18985.339,265034.6141,7.16
+31.07.2022,Y62,North West,,,RXV,Greater Manchester Mental Health NHS Foundation Trust,Mental Health,13235.04973,179591.3469,7.37
+31.07.2022,Y62,North West,,,RY2,Bridgewater Community Healthcare NHS Foundation Trust,Community Provider Trust,2844.00663,39399.75993,7.22
+31.07.2022,Y62,North West,,,RY7,Wirral Community Health and Care NHS Foundation Trust,Community Provider Trust,4301.96393,50624.04928,8.5
+31.07.2022,Y63,North East and Yorkshire,,,NL3,Care Plus Group,Community Provider Trust,1010.81399,18639.75523,5.42
+31.07.2022,Y63,North East and Yorkshire,,,NL8,Locala Community Partnerships CIC,Community Provider Trust,2082.9229100000002,35220.23067,5.91
+31.07.2022,Y63,North East and Yorkshire,,,NNF,City Health Care Partnership CIC,Community Provider Trust,2976.72471,57602.61628,5.17
+31.07.2022,Y63,North East and Yorkshire,,,NQL,NAViGO Health and Social Care CIC,Community Provider Trust,974.6293000000001,20643.63837,4.72
+31.07.2022,Y63,North East and Yorkshire,,,QF7,NHS South Yorkshire ICB,Integrated Care Board,921.47975,21885.78169,4.21
+31.07.2022,Y63,North East and Yorkshire,,,QHM,NHS North East and North Cumbria ICB,Integrated Care Board,379.23341,17464.75372,2.17
+31.07.2022,Y63,North East and Yorkshire,,,QOQ,NHS Humber and North Yorkshire ICB,Integrated Care Board,581.63053,18579.46914,3.13
+31.07.2022,Y63,North East and Yorkshire,,,QWO,NHS West Yorkshire ICB,Integrated Care Board,1277.77339,33112.67548,3.86
+31.07.2022,Y63,North East and Yorkshire,,,R0B,South Tyneside and Sunderland NHS Foundation Trust,Acute,13740.7157,233819.2376,5.88
+31.07.2022,Y63,North East and Yorkshire,,,RAE,Bradford Teaching Hospitals NHS Foundation Trust,Acute,13775.42165,177040.5094,7.78
+31.07.2022,Y63,North East and Yorkshire,,,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,Acute,16469.08677,256901.0288,6.41
+31.07.2022,Y63,North East and Yorkshire,,,RCD,Harrogate and District NHS Foundation Trust,Acute,6917.31444,127131.0553,5.44
+31.07.2022,Y63,North East and Yorkshire,,,RCF,Airedale NHS Foundation Trust,Acute,6572.58764,97450.02409,6.74
+31.07.2022,Y63,North East and Yorkshire,,,RCU,Sheffield Children's NHS Foundation Trust,Acute,6332.52018,102242.4458,6.19
+31.07.2022,Y63,North East and Yorkshire,,,RFF,Barnsley Hospital NHS Foundation Trust,Acute,8089.76583,112382.8873,7.2
+31.07.2022,Y63,North East and Yorkshire,,,RFR,Rotherham NHS Foundation Trust,Acute,9262.91936,127803.1241,7.25
+31.07.2022,Y63,North East and Yorkshire,,,RGD,Leeds and York Partnership NHS Foundation Trust,Mental Health,5756.6726499999995,90187.50817,6.38
+31.07.2022,Y63,North East and Yorkshire,,,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Acute,32208.50603,487853.2625,6.6
+31.07.2022,Y63,North East and Yorkshire,,,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Acute,11777.44144,183759.6628,6.41
+31.07.2022,Y63,North East and Yorkshire,,,RNN,North Cumbria Integrated Care NHS Foundation Trust,Acute,11381.81276,177613.1328,6.41
+31.07.2022,Y63,North East and Yorkshire,,,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,Acute,11902.10697,175744.4629,6.77
+31.07.2022,Y63,North East and Yorkshire,,,RR7,Gateshead Health NHS Foundation Trust,Acute,8302.27273,133451.4131,6.22
+31.07.2022,Y63,North East and Yorkshire,,,RR8,Leeds Teaching Hospitals NHS Trust,Acute,35951.78724,554063.5618499999,6.49
+31.07.2022,Y63,North East and Yorkshire,,,RTD,Newcastle Upon Tyne Hospitals NHS Foundation Trust,Acute,27405.30784,412750.2314,6.64
+31.07.2022,Y63,North East and Yorkshire,,,RTF,Northumbria Healthcare NHS Foundation Trust,Acute,16675.96481,244584.9588,6.82
+31.07.2022,Y63,North East and Yorkshire,,,RTR,South Tees Hospitals NHS Foundation Trust,Acute,17888.87345,261457.6092,6.84
+31.07.2022,Y63,North East and Yorkshire,,,RV9,Humber Teaching NHS Foundation Trust,Mental Health,4892.79714,88562.4096,5.52
+31.07.2022,Y63,North East and Yorkshire,,,RVW,North Tees and Hartlepool NHS Foundation Trust,Acute,10000.34657,144423.0929,6.92
+31.07.2022,Y63,North East and Yorkshire,,,RWA,Hull University Teaching Hospitals NHS Trust,Acute,12028.35105,245691.6144,4.9
+31.07.2022,Y63,North East and Yorkshire,,,RWY,Calderdale and Huddersfield NHS Foundation Trust,Acute,10943.95552,180376.9833,6.07
+31.07.2022,Y63,North East and Yorkshire,,,RX3,"Tees, Esk and Wear Valleys NHS Foundation Trust",Mental Health,14180.45594,216995.3028,6.53
+31.07.2022,Y63,North East and Yorkshire,,,RX4,"Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",Mental Health,16829.26185,231748.733,7.26
+31.07.2022,Y63,North East and Yorkshire,,,RX6,North East Ambulance Service NHS Foundation Trust,Ambulance,7977.60542,87404.92758,9.13
+31.07.2022,Y63,North East and Yorkshire,,,RX8,Yorkshire Ambulance Service NHS Trust,Ambulance,12470.793599999999,166545.1795,7.49
+31.07.2022,Y63,North East and Yorkshire,,,RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,Mental Health,5907.85664,99165.2533,5.96
+31.07.2022,Y63,North East and Yorkshire,,,RXF,Mid Yorkshire Hospitals NHS Trust,Acute,18290.23326,246216.5002,7.43
+31.07.2022,Y63,North East and Yorkshire,,,RXG,South West Yorkshire Partnership NHS Foundation Trust,Mental Health,7151.42002,128096.7343,5.58
+31.07.2022,Y63,North East and Yorkshire,,,RXP,County Durham and Darlington NHS Foundation Trust,Acute,14579.10135,212422.2013,6.86
+31.07.2022,Y63,North East and Yorkshire,,,RY6,Leeds Community Healthcare NHS Trust,Community Provider Trust,6839.14515,86991.30751,7.86
+31.07.2022,Y63,North East and Yorkshire,,,TAD,Bradford District Care NHS Foundation Trust,Mental Health,7041.16857,91776.57062,7.67
+31.07.2022,Y63,North East and Yorkshire,,,TAH,Sheffield Health and Social Care NHS Foundation Trust,Mental Health,4900.65464,70393.52642,6.96
